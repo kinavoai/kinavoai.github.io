@@ -1,0 +1,27 @@
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" fill="none">
+      <defs>
+        <linearGradient id="k-grad" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse">
+          <stop offset="0" stop-color="#00B4DB"/>
+          <stop offset="1" stop-color="#004E92"/>
+        </linearGradient>
+      </defs>
+      <g transform="translate(40,40) scale(0.4)">
+      <defs>
+        <linearGradient id="k-grad" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse">
+          <stop offset="0" stop-color="#00B4DB"/>
+          <stop offset="1" stop-color="#004E92"/>
+        </linearGradient>
+      </defs>
+      <circle cx="512" cy="512" r="420" stroke="url(#k-grad)" stroke-width="36" opacity="0.85"/>
+<circle cx="610" cy="360" r="32" fill="#00B4DB" opacity="0.95"/>
+<path d="M540 400 L 760 540" stroke="url(#k-grad)" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M575 435 L 660 470" stroke="url(#k-grad)" stroke-width="36" stroke-linecap="round" opacity="0.9"/>
+<path d="M220 700 C 330 670, 440 730, 560 700 C 680 670, 790 730, 900 700" stroke="url(#k-grad)" stroke-width="32" stroke-linecap="round" fill="none" opacity="0.9"/>
+<path d="M220 770 C 330 740, 440 800, 560 770 C 680 740, 790 800, 900 770" stroke="url(#k-grad)" stroke-width="32" stroke-linecap="round" fill="none" opacity="0.6"/>
+    </g>
+<g transform="translate(480, 280)">
+  <text x="0" y="0" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto" font-size="140" font-weight="700" fill="#0A1218">Kinavo</text>
+  <text x="0" y="160" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto" font-size="120" font-weight="500" fill="#0A1218">Diving</text>
+</g>
+
+    </svg>

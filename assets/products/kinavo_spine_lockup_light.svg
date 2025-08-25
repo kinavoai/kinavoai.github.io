@@ -1,0 +1,31 @@
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" fill="none">
+      <defs>
+        <linearGradient id="k-grad" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse">
+          <stop offset="0" stop-color="#00B4DB"/>
+          <stop offset="1" stop-color="#004E92"/>
+        </linearGradient>
+      </defs>
+      <g transform="translate(40,40) scale(0.4)">
+      <defs>
+        <linearGradient id="k-grad" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse">
+          <stop offset="0" stop-color="#00B4DB"/>
+          <stop offset="1" stop-color="#004E92"/>
+        </linearGradient>
+      </defs>
+      <circle cx="512" cy="512" r="420" stroke="url(#k-grad)" stroke-width="36" opacity="0.85"/>
+<path d="M 420 220 C 700 260, 320 420, 600 480 C 780 520, 380 720, 600 800" stroke="url(#k-grad)" stroke-width="36" fill="none" stroke-linecap="round"/>
+<rect x="405" y="242" rx="18" ry="18" width="120" height="56" fill="#00B4DB" opacity="0.85"/>
+<rect x="480" y="312" rx="18" ry="18" width="120" height="56" fill="#00B4DB" opacity="0.85"/>
+<rect x="440" y="382" rx="18" ry="18" width="120" height="56" fill="#00B4DB" opacity="0.85"/>
+<rect x="510" y="442" rx="18" ry="18" width="120" height="56" fill="#00B4DB" opacity="0.85"/>
+<rect x="500" y="512" rx="18" ry="18" width="120" height="56" fill="#00B4DB" opacity="0.85"/>
+<rect x="460" y="582" rx="18" ry="18" width="120" height="56" fill="#00B4DB" opacity="0.85"/>
+<rect x="500" y="652" rx="18" ry="18" width="120" height="56" fill="#00B4DB" opacity="0.85"/>
+<rect x="530" y="722" rx="18" ry="18" width="120" height="56" fill="#00B4DB" opacity="0.85"/>
+    </g>
+<g transform="translate(480, 280)">
+  <text x="0" y="0" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto" font-size="140" font-weight="700" fill="#0A1218">Kinavo</text>
+  <text x="0" y="160" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto" font-size="120" font-weight="500" fill="#0A1218">Spine</text>
+</g>
+
+    </svg>
